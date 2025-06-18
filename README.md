@@ -1,1 +1,3 @@
 # Amazon-Clone
+Amazon Clone (HTML & CSS Only)
+This project is a static front-end replica of Amazon, built exclusively using HTML and CSS. It focuses on meticulously recreating the visual layout, styling, and responsive design of various Amazon pages, such as the homepage, product display, and navigation. While it doesn't include any dynamic functionality or interactivity beyond what CSS allows (like hover effects), it serves as a robust demonstration of advanced HTML structuring and sophisticated CSS techniques for achieving complex and pixel-perfect web designs. This repository is ideal for those studying the foundational aspects of web layout and styling, showcasing the power of HTML and CSS in crafting a visually authentic and responsive e-commerce interface.
